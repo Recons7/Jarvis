@@ -1,8 +1,8 @@
-#Developer : suraj sharma
+# Developer : suraj sharma
 
 Project name : 
 
-#Jarvis an virtual Assistant ( Beta version )
+# Jarvis an virtual Assistant ( Beta version )
 
 How To Use :
 
