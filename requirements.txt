@@ -1,0 +1,9 @@
+pywin32
+pyfiglet
+termcolor
+pyaudio
+pyttsx3
+wikipedia
+playsound
+speech_recognition
+webbrowser
